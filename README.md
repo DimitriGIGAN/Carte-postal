@@ -1,2 +1,2 @@
 <h1>Carte-postal<h1>
-<li>Reproduction d'une carte postale (maquette) <li>
+<p>Reproduction d'une carte postale (maquette) <p>
